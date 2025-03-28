@@ -16,8 +16,10 @@ Here are some ideas to get you started:
 -->
 
 ## 💫 About Me:
-- ⚡ Estudante do 2° período de Engenharia de Software<br>
-- ⭐️ Técnica em Equipamentos Biomédicos
+- Estudante do 2° período de Engenharia de Software<br>
+- Técnica em Equipamentos Biomédicos
+
+  
 
 
 
