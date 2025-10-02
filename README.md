@@ -1,7 +1,7 @@
 ## Hi there, i'm Ana Luiza
 
 
-- 💻 Estudante do 2° período de Engenharia de Software<br>
+- 💻 Estudante de Engenharia de Software<br>
 - 🌱 Técnica em Equipamentos Biomédicos
 - 
 <div style="display: flex; justify-content: space-around;">
